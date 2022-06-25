@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-#### I'm a Software Engineering student in ORT University, Uruguay
+#### I'm a Software Engineering student at ORT University, Uruguay
 
 #### NOW
 
