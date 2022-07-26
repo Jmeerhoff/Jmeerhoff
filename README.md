@@ -4,8 +4,9 @@
 
 #### NOW
 
-- 🎓 7th Semester at ORT University
+- 🎓 8th Semester at ORT University
 - 📱 Developing a multiplatform webapp with Quasar Framework
+- ✈️ Preparing for a University Exchange to Germany in 2023
 
 #### BIO
 
